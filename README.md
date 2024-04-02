@@ -8,6 +8,7 @@ About Me:
 
 
 # 💻 Tech Stack:
+[![MATLAB](https://img.shields.io/badge/MATLAB-%23007ACC.svg?style=for-the-badge&logo=Mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
