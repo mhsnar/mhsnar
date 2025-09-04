@@ -1,5 +1,5 @@
 About Me:
-🔭 I’m Currently working as a PhD student at Washington State University on Control theory and Robotics and how to implement them in real schemes.<br>👯 I’m currently learning new methods to overcome low computing capacity in Robotics.<br>💬 Ask me about low computational capacity challenges in Robotics and Model Predictive Control (MPC).<br>⚡️
+🔭 I’m Currently working as a PhD candidate at Washington State University on Control theory and Robotics and how to implement them in real schemes.<br>👯 I’m currently learning new methods to overcome low computing capacity in Robotics.<br>💬 Ask me about low computational capacity challenges in Robotics and Model Predictive Control (MPC).<br>⚡️
 
 
 ## 🌐 Socials:
